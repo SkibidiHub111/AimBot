@@ -9,8 +9,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
         KeySystem = true,
         Title = "[ Free ] By Bao",
         Description = "",
-        KeyLink = "",
-        Keys = {"SkibiDiHub"},
+        KeyLink = "https://jpst.it/46-Ms",
+        Keys = {"j4d1y09stsuhakp"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
